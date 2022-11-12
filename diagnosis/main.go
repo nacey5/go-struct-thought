@@ -1,0 +1,4 @@
+package diagnosis
+
+func main() {
+}
